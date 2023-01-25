@@ -2,46 +2,35 @@
 ![learn2earn](https://learn2earnn.com/Portfolio/learn2earn_institute.jpeg)
 
 
-# Medical Store Mangement System (POS)
+# Medical Representatives App
 
-This POS manages all problems that User sales in Medical Store, including sales and purchase of medicne, owner can keep track of distribion company , customer debit and credit and expense record, profit loss and many more 
-
+This Software is sepecial designed for the Medicine Representatives. where comapny can keep the tracks of the visits of the employee and also employee can set the calender of doctor visits as well as they can set doctor birthdays to send wishes and give them special package.  
 
 ## Admin Features
-- Graphical Representation of purchased medicine and sales record , expense and netbalance 
-- 5000+ medince data already added 
-- user friendly 
-- mangement of company and customer debit and credit 
-- out of stock medicine early report 
-- expiry medicine details 
-- date wise sale , expense and profie medicine.
-- return medicine to company mangement
-- return medicine from customer mangement
-- export data on excel 
-- print option 
-- share to whatsapp
-- different logins access for multiple users 
-- history mangement of sales and delete 
-- Also many more Features
-
-
+- Graphical Representation of employee calender , Active employees , their routes etc
+- Admin can manages the employee login and their attendence and their upcomming visits and their current location
+- sample medicine mangement of each employee 
+- salaries mangement
+## Employee Feature 
+- employess can manage their monthly visit calender 
+- keep track of the medicine
+- sales mangement 
+- sales record by each area 
+- can manage wish calender 
+- location live record 
+- sales target dead line mangement
 ## Operating System 
 this Software support All operating System 
 - Android
 - IOS
 - Desktop
 - Web
-## Admin Screenshots
+## Screenshots
 
-![App Screenshot](Screenshot/adminSS/mobile(2).png)
-![App Screenshot](Screenshot/adminSS/mobile(6).png)
-![App Screenshot](Screenshot/adminSS/mobile(7).png)
-![App Screenshot](Screenshot/adminSS/mobile(8).png)
-## Guard Screenshots
-
-![App Screenshot](Screenshot/clientSS/mobile(3).png)
-![App Screenshot](Screenshot/clientSS/mobile(4).png)
-![App Screenshot](Screenshot/clientSS/mobile(5).png)
+![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-1.PNG)
+![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-2.PNG)
+![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-3.PNG)
+![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-4.PNG)
 
 ## Technologies & Lnaguages 
 
@@ -67,6 +56,18 @@ this Software support All operating System
 
 - [Learn2Earn Software Solutions](https://github.com/orgs/Learn2Earn-Team)
 
+
+## Admin Screenshots
+
+![App Screenshot](Screenshot/adminSS/mobile(2).png)
+![App Screenshot](Screenshot/adminSS/mobile(6).png)
+![App Screenshot](Screenshot/adminSS/mobile(7).png)
+![App Screenshot](Screenshot/adminSS/mobile(8).png)
+## Client Screenshots
+
+![App Screenshot](Screenshot/clientSS/mobile(3).png)
+![App Screenshot](Screenshot/clientSS/mobile(4).png)
+![App Screenshot](Screenshot/clientSS/mobile(5).png)
 
 ## Installation
 
