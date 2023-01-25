@@ -25,12 +25,6 @@ this Software support All operating System
 - IOS
 - Desktop
 - Web
-## Screenshots
-
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-1.PNG)
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-2.PNG)
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-3.PNG)
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-4.PNG)
 
 ## Technologies & Lnaguages 
 
