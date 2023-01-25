@@ -33,10 +33,10 @@ this Software support All operating System
 - Web
 ## Screenshots
 
-![App Screenshot](Screenshot/admin SS/mobile(2).png)
-![App Screenshot](Screenshot/admin SS/mobile(6).png)
-![App Screenshot](Screenshot/admin SS/mobile(7).png)
-![App Screenshot](Screenshot/admin SS/mobile(8).png)
+![App Screenshot](Screenshot/adminSS/mobile(2).png)
+![App Screenshot](Screenshot/adminSS/mobile(6).png)
+![App Screenshot](Screenshot/adminSS/mobile(7).png)
+![App Screenshot](Screenshot/adminSS/mobile(8).png)
 
 ## Technologies & Lnaguages 
 
